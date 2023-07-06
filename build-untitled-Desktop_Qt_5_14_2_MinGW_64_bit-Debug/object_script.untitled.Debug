@@ -1,0 +1,15 @@
+debug/buttle.o
+debug/fish.o
+debug/gun.o
+debug/main.o
+debug/mainwindow.o
+debug/map.o
+debug/mybutton1.o
+debug/myitem.o
+debug/net.o
+debug/playwindow.o
+debug/qrc_img.o
+debug/moc_mainwindow.o
+debug/moc_map.o
+debug/moc_mybutton1.o
+debug/moc_playwindow.o

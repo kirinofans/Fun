@@ -1,0 +1,63 @@
+<RCC>
+    <qresource prefix="/background">
+        <file>image/mainwin.jpg</file>
+        <file>image/chosemap.jpg</file>
+        <file>image/background1.jpg</file>
+        <file>image/background2.jpg</file>
+        <file>image/background3.jpg</file>
+    </qresource>
+    <qresource prefix="/pao">
+        <file>image/dan1.png</file>
+        <file>image/dan2.png</file>
+        <file>image/pao10.jpg</file>
+        <file>image/dan3.png</file>
+        <file>image/pao5.png</file>
+        <file>image/dan4.png</file>
+        <file>image/net2.png</file>
+        <file>image/net3.png</file>
+        <file>image/net4.png</file>
+        <file>image/pao3.png</file>
+        <file>image/pao4.png</file>
+        <file>image/btndown.png</file>
+        <file>image/btnup.png</file>
+        <file>image/net.png</file>
+        <file>image/netsss.png</file>
+    </qresource>
+    <qresource prefix="/fish">
+        <file>image/fish5.1.png</file>
+        <file>image/fish5.2.png</file>
+        <file>image/fish5.3.png</file>
+        <file>image/fish5.4.png</file>
+        <file>image/fish6.1.png</file>
+        <file>image/fish6.2.png</file>
+        <file>image/fish6.3.png</file>
+        <file>image/fish6.4.png</file>
+        <file>image/fish6.5.png</file>
+        <file>image/fish7.1.png</file>
+        <file>image/fish7.2.png</file>
+        <file>image/fish7.3.png</file>
+        <file>image/fish8.1.png</file>
+        <file>image/fish8.2.png</file>
+        <file>image/fish8.3.png</file>
+        <file>image/fish8.4.png</file>
+        <file>image/greenfish1.png</file>
+        <file>image/greenfish2.png</file>
+        <file>image/greenfish3.png</file>
+        <file>image/greenfish4.png</file>
+        <file>image/greenfish5.png</file>
+        <file>image/greenfish6.png</file>
+        <file>image/fish9.1.png</file>
+        <file>image/fish9.2.png</file>
+    </qresource>
+    <qresource prefix="/other">
+        <file>image/start.png</file>
+        <file>image/btn2.png</file>
+        <file>image/dia.png</file>
+        <file>image/chosebtn.png</file>
+        <file>image/chosebtn2.png</file>
+        <file>image/chosebtn3.png</file>
+        <file>image/net.png</file>
+        <file>image/btndown.png</file>
+        <file>image/btnup.png</file>
+    </qresource>
+</RCC>

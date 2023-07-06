@@ -1,0 +1,15 @@
+release/buttle.o
+release/fish.o
+release/gun.o
+release/main.o
+release/mainwindow.o
+release/map.o
+release/mybutton1.o
+release/myitem.o
+release/net.o
+release/playwindow.o
+release/qrc_img.o
+release/moc_mainwindow.o
+release/moc_map.o
+release/moc_mybutton1.o
+release/moc_playwindow.o
